@@ -2,7 +2,7 @@
 Description: In this pig game, there are two players and the player who first reaches a score of 100 wins! Keep rolling the dice and press the hold button when you want to save it to your current score. Beware, try not to roll a 1 because it won't add up to your current score!
 
 ## Deployment
-You can find the deployed game here at: https://pig-game-js-sammy.netlify.app/
+You can find the deployed game here at: <a href="https://pig-game-js-sammy.netlify.app/" target="_blank">Pig Game</a>
 
 
 
